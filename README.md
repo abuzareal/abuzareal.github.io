@@ -2,7 +2,7 @@
 
 This is my Personal Portfolio!
 My first ever full scale website.
-You can look it up at https://abuzar-dev.github.io
+You can look it up at https://abuzareal.github.io
 
 Pretty basic.
 Pushing changes continuously for more responsiveness.
